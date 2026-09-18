@@ -15,3 +15,6 @@ The telecommunications company is facing a significant challenge with customer r
 ## 💡 Strategic Business Recommendations
 * **Contract Migration Campaigns:** Implement automated marketing incentives (discounts or bundle upgrades) during month 4 of a customer's lifecycle to migrate Month-to-Month users into longer-term commitments.
 * **Competitive Intelligence:** Perform a feature and pricing audit on direct telecom competitors to address why 45% of churned users are actively switching providers.
+<p align="center">
+  <img src="dashboard_telco_page-0001.jpg" width="600" alt="Banner de presentación">
+</p>
